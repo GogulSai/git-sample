@@ -1,2 +1,0 @@
-user name = gogul
-user password = sai
